@@ -1,0 +1,17 @@
+.venv/
+venv/
+venv312/
+**/.venv/
+**/venv/
+**/venv312/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+dist/
+build/
+
+.venv312/
+**/.venv312/
