@@ -70,7 +70,7 @@ The project uses Microsoft Azure services for:
 
 ## 🚀 Project Status
 
-**Development in Progress**
+**Implemented**
 
 This project is being developed as part of an Integrated Full-Stack Project to demonstrate System Design, RDBMS, DP-900 Azure Data Services, and Cloud Security concepts.
 
