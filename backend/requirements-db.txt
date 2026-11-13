@@ -1,0 +1,4 @@
+# Install ONE of these depending on the database you point DATABASE_URL at.
+# (SQLite, the default, needs nothing extra.)
+psycopg2-binary>=2.9      # PostgreSQL  -> postgresql+psycopg2://...
+pyodbc>=5.1               # Azure SQL   -> mssql+pyodbc://...  (also install "ODBC Driver 18 for SQL Server")
