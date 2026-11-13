@@ -1,1 +1,0 @@
-"""PharmaLab Backend Application Package."""
