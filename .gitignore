@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 *.db
 __pycache__/
@@ -9,3 +10,22 @@ uploads/
 logs/
 .pytest_cache/
 *.pyc
+=======
+.venv/
+venv/
+venv312/
+**/.venv/
+**/venv/
+**/venv312/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+dist/
+build/
+
+.venv312/
+**/.venv312/
+>>>>>>> 81954ce4f4030a8b29e8e10e9289817f55edabea
